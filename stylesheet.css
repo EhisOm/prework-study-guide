@@ -34,14 +34,12 @@ ul {
     word-spacing: 20px;
 }
 main p {
-    padding: 80px;
+    padding: 250px;
     margin-left: 70px;
-    color: black;
-    font-size: large;
-    
-}
+    color: darkred;
+    font-size: large;}
 main {
-    background: url(assets/edx.png.jpg) ;
+    /* background: url(assets/edx.png.jpg) ; */
     background-repeat: no-repeat;
     background-position: center;
     background-size:auto;
