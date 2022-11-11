@@ -1,7 +1,6 @@
 * {
     /* margin: 0; */
 }
-
 header {
     color:goldenrod;
     
@@ -20,27 +19,34 @@ header, img {
     /* overflow: hidden; */
     justify-content: space-between;
 }
-
 a {
     text-decoration: none;
-    color: gray;
+    color: grey;
 }
-
+a:hover {
+    color: black;
+}
 li {
     list-style-type: none;
     display: inline;
-    
-    
 }
 ul {
     word-spacing: 20px;
-
+}
+main p {
+    padding: 80px;
+    margin-left: 70px;
+    color: black;
+    font-size: large;
+    
+}
+main {
+    background: url(assets/edx.png.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:auto;
 }
 
-main,
-.second-p {
-    margin-left: 50px;
-}
 
 footer {
     color: silver;
