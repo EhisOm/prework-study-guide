@@ -1,0 +1,19 @@
+* {
+
+}
+
+header {
+    color:goldenrod;
+    text-align: center;
+}
+
+main,
+.second-p {
+    margin-left: 50px;
+}
+
+footer {
+    color: silver;
+    text-align: center;
+    word-spacing: 5px;
+}
