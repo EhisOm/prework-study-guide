@@ -26,17 +26,16 @@ a {
 a:hover {
     color: black;
 }
-li {
+.home-page-li li {
     list-style-type: none;
     display: inline;
 }
 ul {
     word-spacing: 20px;
 }
-main p {
+main ul {
     padding: 250px;
     margin-left: 70px;
-    color: darkred;
     font-size: large;}
 main {
     background-repeat: no-repeat;
