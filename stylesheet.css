@@ -26,18 +26,20 @@ a {
 a:hover {
     color: black;
 }
-.home-page-li li {
+li {
     list-style-type: none;
     display: inline;
 }
 ul {
     word-spacing: 20px;
 }
-main ul {
+main p {
     padding: 250px;
     margin-left: 70px;
+    color: darkred;
     font-size: large;}
 main {
+    /* background: url(assets/edx.png.jpg) ; */
     background-repeat: no-repeat;
     background-position: center;
     background-size:auto;
