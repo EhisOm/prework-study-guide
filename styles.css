@@ -26,11 +26,11 @@ a {
     color: gray;
 }
 
-li {
+.inline-li li {
     list-style-type: none;
     display: inline;
 }
-ul {
+.inline-li {
     word-spacing: 20px;
 }
 
